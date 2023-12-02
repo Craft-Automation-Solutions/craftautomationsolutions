@@ -4,14 +4,14 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>My Project</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/Craft-Automation-Solutions/craftautomationsolutions',
   },
   chat: {
     link: 'https://discord.gg/Kyqk8V4X',
   },
   docsRepositoryBase: 'https://github.com/Craft-Automation-Solutions/craftautomationsolutions',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Craft Automation Solutions',
   },
 }
 
