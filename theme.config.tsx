@@ -7,9 +7,9 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/shuding/nextra-docs-template',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/Kyqk8V4X',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/Craft-Automation-Solutions/craftautomationsolutions',
   footer: {
     text: 'Nextra Docs Template',
   },
